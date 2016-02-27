@@ -1,7 +1,7 @@
 # lec2_fm
 
 ## 小見出し1
-今日は同志社大学まで勉強に来ています。
+今日は**同志社大学**まで勉強に来ています。
 
 1. 感謝
   - thunks
@@ -27,8 +27,23 @@
 ## 小見出し2
 勉強中！
 
+    # Tab
+    class Hoge
+      def hoge
+        print 'hoge'
+      end
+    end
 
+    # Space
+    class Hoge
+      def hoge
+        print 'hoge'
+      end
+    end
 
+## code記法
+
+インストールコマンドは `gem install hoge` です。
 
 
 
