@@ -48,6 +48,27 @@
 インストールコマンドは `gem install hoge` です。
 
 
+## リンク
 
 [Google先生](https://www.google.co.jp/)
+
+https://www.google.co.jp/
+
+    https://www.google.co.jp/
+
+## 表
+
+|No.|リーダー|サブリーダー|
+|--:|:--|:--|
+|1|藤川|松本|
+|2|福井|吉田|
+
+
+~~~ruby
+class Hoge
+  def hoge
+    print 'hoge'
+  end
+end
+~~~
 
