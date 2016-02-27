@@ -62,12 +62,9 @@ https://www.google.co.jp/
 |--:|:--|:--|:--:|
 |1|藤川|松本|○|
 |2|福井|吉田||
-<<<<<<< HEAD
-|3|y|z||
-=======
 |3|a|b||
 |4|c|d||
->>>>>>> refs/remotes/origin/newfeature
+|5|y|z||
 
 
 ~~~ruby
